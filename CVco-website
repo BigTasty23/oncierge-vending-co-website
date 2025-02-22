@@ -1,0 +1,109 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concierge Vending Co.</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts for Art Deco typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Concierge Vending Co.</h1>
+            <p class="tagline">Elevating Convenience with Timeless Style</p>
+            <nav>
+                <ul>
+                    <li><a href="#service">Our Service</a></li>
+                    <li><a href="#target-market">Who We Serve</a></li>
+                    <li><a href="#products">What We Offer</a></li>
+                    <li><a href="#operational-plan">How We Operate</a></li>
+                    <li><a href="#sustainability">Sustainability Matters</a></li>
+                    <li><a href="#machines">Our Machines</a></li>
+                </ul>
+                <div class="mobile-menu-icon">&#9776;</div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section id="hero">
+            <div class="hero-content">
+                <h2>Premium Vending Solutions for Cora Apartments</h2>
+                <p>Gourmet snacks and drinks, available 24/7.</p>
+                <a href="mailto:info@conciergevendingco.com" class="cta-button">Contact Us</a>
+            </div>
+        </section>
+
+        <!-- Service Overview Section -->
+        <section id="service" class="content-section">
+            <div class="container">
+                <h3>Our Service</h3>
+                <p>Aimed at providing high-end, convenient snack and refreshment solutions, our vending machines will be strategically located at the main level near the trolley carts, ensuring easy access for all residents, guests, and staff. Offering a curated selection of gourmet snacks and drinks, we address the need for quality and convenience. Our commitment to maintaining and regularly servicing the machines guarantees a seamless, 24/7 snacking experience. With Concierge Vending Co., residents will enjoy an upscale, reliable source of refreshments right within their building.</p>
+                <!-- Placeholder for vending machine icon -->
+                <div class="icon-placeholder"></div>
+            </div>
+        </section>
+
+        <!-- Target Market Section -->
+        <section id="target-market" class="content-section">
+            <div class="container">
+                <h3>Who We Serve</h3>
+                <p>Our primary customers are the residents, guests, and staff of Cora Apartments who seek quick, convenient access to quality snacks and beverages. We recognize the diverse demographic of the community and aim to cater to their varied tastes and preferences.</p>
+            </div>
+        </section>
+
+        <!-- Products Section -->
+        <section id="products" class="content-section">
+            <div class="container">
+                <h3>What We Offer</h3>
+                <p>We will offer a carefully selected range of products, including healthy snack options, gourmet treats, artisanal beverages, and popular branded items. Our selection process emphasizes quality, freshness, and variety to ensure we meet the high standards expected by our customers. Concierge Vending Co. is open to taking suggestions from the Cora residents to better accommodate their needs.</p>
+                <!-- Placeholder for product carousel or grid -->
+                <div class="product-placeholder"></div>
+            </div>
+        </section>
+
+        <!-- Operational Plan Section -->
+        <section id="operational-plan" class="content-section">
+            <div class="container">
+                <h3>How We Operate</h3>
+                <p>Our vending machines will be placed on the main level near the trolley carts. This area has been chosen for its ease of access and visibility. Maintenance and restocking will be conducted as needed based on the machine’s remote inventory management system to ensure consistent service quality.</p>
+            </div>
+        </section>
+
+        <!-- Sustainability Commitment Section -->
+        <section id="sustainability" class="content-section">
+            <div class="container">
+                <h3>Sustainability Matters</h3>
+                <p>Understanding the importance of Water Street’s environmental commitment as a first WELL certified community, our business will prioritize eco-friendly practices, including Energy Star Rated machines and biodegradable packaging where possible.</p>
+            </div>
+        </section>
+
+        <!-- Vending Machine Overview Section -->
+        <section id="machines" class="content-section">
+            <div class="container">
+                <h3>Our Machines</h3>
+                <p>Concierge Vending Co. proudly introduces an innovative vending machine, combining sleek design and substantial capacity, capable of offering 217 high-end snacks and 136 premium beverages. This machine features tap-to-pay technology, as well as traditional cash, ensuring ease and security in transactions. Equipped with a sophisticated inventory management system, it provides real-time data on stock levels, allowing for consistent and convenient restocking. Notably, the machine is Energy Star rated, exemplifying our commitment to sustainability, ensuring energy efficiency without compromising on functionality and user experience.</p>
+                <!-- Placeholder for vending machine image -->
+                <div class="machine-placeholder"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Concierge Vending Co. | Contact: <a href="mailto:info@conciergevendingco.com">info@conciergevendingco.com</a> | Cora Apartments</p>
+            <!-- Placeholder for social media icons -->
+            <div class="social-icons"></div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
